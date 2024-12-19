@@ -41,3 +41,6 @@ yolov8csp.pt:                  A modified YOLOv8 model.
 Install dependencies via:
 ```bash
 pip install ultralytics opencv-python numpy torch matplotlib
+```
+### link to download dataset 
+https://drive.google.com/drive/folders/19tqmHaVYL_JTXJB8nUSdrmlxJ1ON1FoY?usp=sharing
